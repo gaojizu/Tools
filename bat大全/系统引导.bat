@@ -1,0 +1,2 @@
+Msconfig.exe
+pause

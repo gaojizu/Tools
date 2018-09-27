@@ -1,0 +1,2 @@
+secpol.msc
+pause

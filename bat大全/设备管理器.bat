@@ -1,0 +1,2 @@
+devmgmt.msc
+pause

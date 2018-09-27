@@ -1,0 +1,2 @@
+compmgmt.msc
+pause

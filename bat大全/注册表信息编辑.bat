@@ -1,0 +1,2 @@
+regedt32
+pause

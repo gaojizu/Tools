@@ -1,0 +1,2 @@
+chkdsk.exe
+pause

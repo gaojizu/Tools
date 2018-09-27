@@ -1,0 +1,2 @@
+perfmon.msc
+pause
